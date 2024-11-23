@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1732314873 source:c:\users\jorge\desktop\ads\trabalho1\jorgesantana20241160003.c
+	<stdio.h>
+	"JorgeSantana20241160003.h"
+	<stdlib.h>
+	<string.h>
+
+1732196719 c:\users\jorge\desktop\ads\trabalho1\jorgesantana20241160003.h
+
+1732284948 source:c:\users\jorge\desktop\ads\trabalho1\corretor.c
+	<stdio.h>
+	<string.h>
+	"JorgeSantana20241160003.h"
+
